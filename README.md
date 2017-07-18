@@ -1,4 +1,4 @@
-charlie
+charlie Photoshop Javascript code
 =======
 
 Charlie sample code
